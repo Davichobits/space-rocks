@@ -12,3 +12,5 @@ if sprite_index == spr_rock_big {
 } else {
 	instance_destroy();
 }
+
+obj_game.points++;
