@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_button_help",
+  "name": "obj_button_controls",
   "spriteId": {
     "name": "spr_button",
     "path": "sprites/spr_button/spr_button.yy",
