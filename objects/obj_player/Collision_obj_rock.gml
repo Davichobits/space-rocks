@@ -1,3 +1,5 @@
+if(power_up == 2) exit;
+
 effect_create_above(ef_firework, x, y, 1, c_white);
 instance_destroy();
 audio_play_sound(snd_loose, 0, false);
