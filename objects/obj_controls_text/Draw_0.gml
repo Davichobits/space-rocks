@@ -8,7 +8,7 @@ draw_set_valign(fa_top);
 
 h_shift = 80;
 
-var actions = ["Forward", "Back", "Rotate", "Shoot"];
+var actions = ["", "Forward", "Rotate", "Shoot"];
 
 for (var i = 0; i < array_length(actions); i++) {
     draw_text(x, y + h_shift * (i - 1), actions[i]);
